@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Plura Saas
 
+![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
+
 ## Overview
 - This project aims to develop a robust application for managing agencies, users, and permissions using modern web technologies. It leverages frameworks like Next.js for frontend development, Clerk for authentication, and Prisma for database operations, ensuring a secure and efficient user experience.
 
